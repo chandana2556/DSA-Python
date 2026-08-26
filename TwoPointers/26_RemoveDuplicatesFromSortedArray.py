@@ -15,7 +15,7 @@ elements in sorted order.
 
 Example:
 Input:
-nums = [1,1,2,2,3]
+nums = [1,1,2,2,3].
 
 Output:
 k = 3
