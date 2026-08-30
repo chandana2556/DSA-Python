@@ -8,7 +8,7 @@ Given an integer array nums, perform the following operations
 from left to right:
 
 1. If nums[i] == nums[i + 1], multiply nums[i] by 2 and
-   set nums[i + 1] to 0.
+   set nums[i + 1] to 0..
 
 2. After applying all operations, move all zeroes to the end
    while maintaining the relative order of non-zero elements.
