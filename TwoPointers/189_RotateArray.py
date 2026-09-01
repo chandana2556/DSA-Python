@@ -12,7 +12,7 @@ first position.
 
 Since k can be larger than the length of the array, we use:
 
-k = k % n
+k = k % n..
 
 to reduce unnecessary rotations.
 
