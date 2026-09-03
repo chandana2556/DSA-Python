@@ -12,7 +12,7 @@ Return the array in the shuffled form:
 
 [x1, y1, x2, y2, ..., xn, yn]
 
-The first half contains the x values and the second half
+The first half contains the x values and the second half.
 contains the y values.
 
 Example:
