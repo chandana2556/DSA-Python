@@ -23,3 +23,11 @@ for i in range(rows):
 
 # Print the complete matrix
 print(m)
+
+
+Output:-
+Enter no.of Rows: 2
+Enter no.of Columns: 3
+1 2 3
+4 5 6
+[[1, 2, 3], [4, 5, 6]]
