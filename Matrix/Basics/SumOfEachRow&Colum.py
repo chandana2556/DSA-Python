@@ -11,7 +11,10 @@ for i in range(rows):
     #print()
     print("--> ",total)
 
-
+Output:-
+1 2 3 4 -->  10
+5 6 7 8 -->  26
+9 0 1 2 -->  12
 
 #sum of each column
 
@@ -29,4 +32,10 @@ for i in range(cols):
         print(m[j][i], end=" ")
         total = total + m[j][i]
 
-    print("Sum =", total)
+    print("--> ", total)
+
+Output:-
+1 5 9 --> 15
+2 6 0 --> 8
+3 7 1 --> 11
+4 8 2 --> 14
