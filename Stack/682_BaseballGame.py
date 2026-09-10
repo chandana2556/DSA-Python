@@ -16,3 +16,4 @@ class Solution:
         for i in st:
             s=s+i
         return s
+        
